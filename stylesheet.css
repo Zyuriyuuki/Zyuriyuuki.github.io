@@ -4,7 +4,7 @@
      font-family: sans-serif;
 }
 .hero{
-     background-image: url('beautiful_pic.jpeg');
+     background-image: url('sun_set.jpeg');
      background-repeat: no-repeat;
      background-size: 1024px;
 }
@@ -43,7 +43,7 @@ nav ul li a:hover{
      margin-bottom: 20px;
 }
 span{
-     color: 000000;
+     color: FFFFFF;
 }
 .detel p{
      color: #FFFFFF;
